@@ -42,5 +42,3 @@ pointer = list.head
 while(pointer):
     print(pointer.data)
     pointer = pointer.next
-
-
